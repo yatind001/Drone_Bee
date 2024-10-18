@@ -1,5 +1,5 @@
 
-Demo Deployment Link : https://harsh04102002.github.io/DroneBee.github.io/
+
 
 # Drone-Bee
 1. Please allow the location permission if you get a popup like this:
