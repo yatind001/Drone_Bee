@@ -1,0 +1,35 @@
+
+<!DOCTYPE html>
+<html lang="en" >
+<head>
+  <meta charset="UTF-8">
+  <title>Login</title>
+  <link rel='stylesheet' href='https://fonts.googleapis.com/css?family=Rubik:400,700'><link rel="stylesheet" href="css/login.css">
+
+</head>
+<body>
+<!-- partial:index.partial.html -->
+<div class="login-form">
+  <form action="/login" method="post"">
+    <h1>Login</h1>
+    <div class="content">
+      <div class="input-field">
+        <input placeholder="Name" name="name" type="text">
+      </div>
+      <div class="input-field">
+        <input placeholder="Password" name="password" type="password">
+    {{!-- <h3>Dont have a account ?</h3> --}}
+    <br>
+    <div class="action">
+      {{!-- <input class="sub" type="submit"> --}}
+      <button class="sub" type="submit">Sign in</button>
+    </div>
+    <h3>Dont have an account ?</h3>
+    <br>
+    <a href="/signup">Create a new account</a>
+  </form>
+</div>
+<!-- partial -->
+  
+</body>
+</html>
