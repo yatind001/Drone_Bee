@@ -4,7 +4,8 @@
 # Drone-Bee
 1. Please allow the location permission if you get a popup like this:
    
-![Screenshot (91)](https://user-images.githubusercontent.com/97248127/230001551-d018a2b1-0b82-4674-9f9b-0086eb3eb740.png)
+![Screenshot (91)](![Uploading image.png…]()
+)
 
 2.Click the hover icon on the right end of the search bar for chrome( which may vary for firefox,bing etc.) and then reload the page.
 ![Screenshot (92)](https://user-images.githubusercontent.com/97248127/230002251-392c1e2b-febb-47e1-897e-f8d81077b78b.png)
